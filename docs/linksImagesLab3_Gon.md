@@ -1,0 +1,7 @@
+[GitHub](https://github.com/CristalMell)  
+[Markdown](https://www.markdownguide.org/ "Перейти на официальный сайт")  
+[Onmyoji Guide](https://guidemyoji.com/)  
+[Ежедневная викторина по лолу](https://loldle.net/quote)  
+[Инфо-база по сету 16 ТФТ](https://www.littlebuddybot.com/tft-augment-odds "Отвратительный сет могу сказать Вам")  
+![Скриншот задания](/img/gitPushLab3_Gon.jpg)  
+![Скриншот задания](/img/headersCommitLab3_Gon.jpg)
